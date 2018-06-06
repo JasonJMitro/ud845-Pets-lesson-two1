@@ -30,7 +30,6 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.example.android.pets.data.PetContract;
 
 import static com.example.android.pets.data.PetContract.*;
 
