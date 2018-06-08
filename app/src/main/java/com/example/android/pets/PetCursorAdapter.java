@@ -61,7 +61,7 @@ public class PetCursorAdapter extends CursorAdapter {
 
         String petName = cursor.getString(nameColumnIndex);
         String petBreed = cursor.getString(breedColumnIndex);
-        
+
         nameTextView.setText(petName);
         summaryTextView.setText(petBreed);
     }
